@@ -133,7 +133,7 @@ GET /forecast
 
 1. Clone repository
 
-git clone [repository_url]
+git clone [https://github.com/marinaortegaplaza-abril04/weather-app]
 
 2. Install dependencies
 
